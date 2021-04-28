@@ -1,0 +1,100 @@
+body{
+  background-color: #191d28;
+  color:white;
+}
+.content{
+  padding: 2rem 2rem 10px 45px;
+  font-family: 'Oswald', sans-serif;
+}
+#logo{
+  float: left;
+  line-height: 100%;
+  margin-top:40px;
+}
+#logoh{
+  font-size: 300%;
+}
+
+#inr{
+  float:left;
+  margin: 50px 0 0 25rem;
+  background-color: #5e6671;
+  height: 30px;
+  width:70px;
+  text-align: center;
+  font-size: 12px;
+  border-radius:10px;
+  line-height: 10px;
+  font-weight: bold;
+}
+#btc{
+  float:left;
+  margin: 50px 0 0 0.5rem;
+  background-color: #5e6671;
+  height: 30px;
+  width:70px;
+  text-align: center;
+  font-size: 12px;
+  border-radius:10px;
+  line-height: 0px;
+  font-weight: bold;
+}
+#no{
+  float:left;
+  margin: 50px 0 0 26rem;
+  border: 2px solid #3dc6c1;
+  border-radius: 50%;
+  padding: 5px;
+  color:#3dc6c1;
+}
+.fab{
+  float:left;
+  margin: 52px 0 0 1rem;
+  background-color: #3dc6c1;
+  height: auto;
+  width:8rem;
+  text-align: center;
+  font-size: 12px;
+  border-radius:10px;
+  padding: 10px;
+  line-height: 10px;
+
+
+}
+.fa-toggle-on{
+  float: left;
+  margin: 30px 0 0 1rem;
+  transform:scale(1.2,1);
+  height:25px;
+  /* background-color:#5e6671; */
+  color:#3dc6c1 ;
+}
+#theader{
+  margin-left: 1.2rem;
+  margin-top: 10rem;
+  word-spacing: 13rem;
+  color:#707279;
+  font-weight: bolder;
+  font-family: "Oswald",sans-serif;
+}
+a{
+  color:white;
+  text-decoration: none;
+  font-family: "Oswald",sans-serif;
+}
+.sponsor{
+  color:#707279;
+}
+.logohead{
+  color:#3dc6c1;
+}
+.items{
+  word-spacing: 11.6rem;
+  margin: 10px 4rem 22px 2.3rem;
+  background-color: #2e3241;
+  padding:15px 25px ;
+  border-radius: 10px;
+  font-weight: bold;
+  font-family: "Oswald",sans-serif;
+
+}
